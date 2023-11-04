@@ -1,12 +1,12 @@
 
 spring:
-  #数据库配置信息
   datasource:
     druid:
       driver-class-name: com.mysql.cj.jdbc.Driver
-      url: jdbc:mysql://localhost:3306/efms_db
-      username: root
-      password: my689686sql
+      url: jdbc:mysql://database-1.cbcnox9o9es0.ap-southeast-1.rds.amazonaws.com:3306/efms_db
+      username: admin
+      password: Shengli1021
+
   #日期时间格式化配置信息
   jackson:
     time-zone: GMT+8
