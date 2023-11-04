@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a5f30b6f-fcb2-4ddd-b619-5f98e3075cd8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2GHr2krE5N3c1Z8qmV8qq89eQk3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "swt"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projrct-EFMS\src\main\resources\static" />
+      <recent name="D:\Projrct-EFMS\src\main\java\com\dlut\efmsystem\service" />
+      <recent name="D:\Projrct-EFMS\src\main\java\com\dlut\efmsystem\service\impl" />
+      <recent name="D:\Projrct-EFMS\src\main\java\com\dlut\efmsystem\controller" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.dlut.efmsystem" />
+      <recent name="com.dlut" />
+      <recent name="com.dlut.service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.EfMsystemApplication">
+    <configuration name="generated-requests#4" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="4" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests#5" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="5" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests#6" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="6" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="EfMsystemApplicationTests.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EFMsystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dlut.efmsystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dlut.efmsystem" />
+      <option name="MAIN_CLASS_NAME" value="com.dlut.efmsystem.EfMsystemApplicationTests" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EfMsystemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="EFMsystem" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dlut.efmsystem.EfMsystemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.EfMsystemApplication" />
+        <item itemvalue="JUnit.EfMsystemApplicationTests.test3" />
+        <item itemvalue="HTTP Request.generated-requests#6" />
+        <item itemvalue="HTTP Request.generated-requests#5" />
+        <item itemvalue="HTTP Request.generated-requests#4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5f30b6f-fcb2-4ddd-b619-5f98e3075cd8" name="Changes" comment="" />
+      <created>1666056145812</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666056145812</updated>
+      <workItem from="1666056147673" duration="25755000" />
+      <workItem from="1666142443812" duration="25413000" />
+      <workItem from="1666192404628" duration="36000" />
+      <workItem from="1666235155366" duration="1053000" />
+      <workItem from="1666236702553" duration="15436000" />
+      <workItem from="1666449495701" duration="1874000" />
+      <workItem from="1666500831945" duration="657000" />
+      <workItem from="1666513659787" duration="154000" />
+      <workItem from="1666577447857" duration="7283000" />
+      <workItem from="1666745128466" duration="3977000" />
+      <workItem from="1666856770431" duration="40000" />
+      <workItem from="1666874406382" duration="602000" />
+      <workItem from="1666920006958" duration="5540000" />
+      <workItem from="1666926058716" duration="7664000" />
+      <workItem from="1666947454452" duration="9527000" />
+      <workItem from="1667007512752" duration="6173000" />
+      <workItem from="1667014423172" duration="100000" />
+      <workItem from="1667027999970" duration="1841000" />
+      <workItem from="1667094058433" duration="7099000" />
+      <workItem from="1667101751184" duration="6553000" />
+      <workItem from="1667137179676" duration="5062000" />
+      <workItem from="1667177896851" duration="1056000" />
+      <workItem from="1667194854647" duration="1234000" />
+      <workItem from="1667203574984" duration="53000" />
+      <workItem from="1667205086385" duration="233000" />
+      <workItem from="1667303960021" duration="621000" />
+      <workItem from="1667362184139" duration="6666000" />
+      <workItem from="1667438847110" duration="1868000" />
+      <workItem from="1667524266968" duration="1843000" />
+      <workItem from="1667548257850" duration="600000" />
+      <workItem from="1667610755131" duration="5707000" />
+      <workItem from="1667698128456" duration="9772000" />
+      <workItem from="1667784166726" duration="19000" />
+      <workItem from="1667826781361" duration="687000" />
+      <workItem from="1667869184570" duration="25468000" />
+      <workItem from="1667958350105" duration="8801000" />
+      <workItem from="1667977053237" duration="4357000" />
+      <workItem from="1668064739647" duration="5339000" />
+      <workItem from="1668217814723" duration="14084000" />
+      <workItem from="1668411551893" duration="6891000" />
+      <workItem from="1668694113713" duration="791000" />
+      <workItem from="1668847969294" duration="11408000" />
+      <workItem from="1668912447469" duration="1969000" />
+      <workItem from="1668937348833" duration="1388000" />
+      <workItem from="1668941409623" duration="2180000" />
+      <workItem from="1668992744799" duration="8296000" />
+      <workItem from="1669044408066" duration="985000" />
+      <workItem from="1669085633555" duration="28404000" />
+      <workItem from="1669169240152" duration="4506000" />
+      <workItem from="1669197565686" duration="10483000" />
+      <workItem from="1669252618631" duration="53984000" />
+      <workItem from="1669431129754" duration="18273000" />
+      <workItem from="1669517488525" duration="10048000" />
+      <workItem from="1669606809906" duration="7409000" />
+      <workItem from="1669685049179" duration="5687000" />
+      <workItem from="1669775326458" duration="2941000" />
+      <workItem from="1669859760957" duration="9183000" />
+      <workItem from="1669952957575" duration="11028000" />
+      <workItem from="1670034587494" duration="2482000" />
+      <workItem from="1670122011127" duration="10160000" />
+      <workItem from="1670208882232" duration="145000" />
+      <workItem from="1670209048842" duration="10273000" />
+      <workItem from="1670249313627" duration="3000" />
+      <workItem from="1670299010294" duration="2447000" />
+      <workItem from="1670382890949" duration="20973000" />
+      <workItem from="1670459275004" duration="9398000" />
+      <workItem from="1670545756178" duration="2840000" />
+      <workItem from="1670601493040" duration="579000" />
+      <workItem from="1670635311585" duration="8146000" />
+      <workItem from="1670649571140" duration="3525000" />
+      <workItem from="1670661373382" duration="736000" />
+      <workItem from="1670665990667" duration="1000" />
+      <workItem from="1670670108013" duration="272000" />
+      <workItem from="1670739356603" duration="3737000" />
+      <workItem from="1670766210014" duration="1016000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1666058275561</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666058275561</updated>
+    </task>
+    <task id="LOCAL-00002" summary="添加依赖：mybatis,druid,mysql,lombok">
+      <created>1666064679183</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666064679183</updated>
+    </task>
+    <task id="LOCAL-00003" summary="项目文件">
+      <created>1666064931149</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666064931149</updated>
+    </task>
+    <task id="LOCAL-00004" summary="后端代码：角色管理+成果管理 第一次提交">
+      <created>1666105907424</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666105907424</updated>
+    </task>
+    <task id="LOCAL-00005" summary="后端代码：角色管理+成果管理 第二次提交">
+      <created>1666192301885</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666192301885</updated>
+    </task>
+    <task id="LOCAL-00006" summary="修改启动类位置">
+      <created>1666451208553</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666451208553</updated>
+    </task>
+    <task id="LOCAL-00007" summary="角色管理接口实现">
+      <created>1666598953630</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666598953630</updated>
+    </task>
+    <task id="LOCAL-00008" summary="启动类位置修改">
+      <created>1666599742978</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1666599742978</updated>
+    </task>
+    <task id="LOCAL-00009" summary="角色管理+成果上报 第三次提交">
+      <created>1666923966084</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1666923966084</updated>
+    </task>
+    <task id="LOCAL-00010" summary="人员+设施管理 修改">
+      <created>1666927704908</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1666927704908</updated>
+    </task>
+    <task id="LOCAL-00011" summary="实体类完善">
+      <created>1666952936358</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1666952936358</updated>
+    </task>
+    <task id="LOCAL-00012" summary="接口完善">
+      <created>1667048873939</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1667048873939</updated>
+    </task>
+    <task id="LOCAL-00013" summary="成果上报业务流程完善">
+      <created>1667097320857</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1667097320857</updated>
+    </task>
+    <task id="LOCAL-00014" summary="角色管理业务流程完善&#10;@Autowired替换为@Resource">
+      <created>1667099180006</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1667099180006</updated>
+    </task>
+    <task id="LOCAL-00015" summary="成果上报业务流程完善">
+      <created>1667122218247</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1667122218247</updated>
+    </task>
+    <task id="LOCAL-00016" summary="维修单搜索完善">
+      <created>1667144428819</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1667144428820</updated>
+    </task>
+    <task id="LOCAL-00017" summary="增加RoleVO类以及相关操作">
+      <created>1667382938058</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1667382938058</updated>
+    </task>
+    <task id="LOCAL-00018" summary="增加ResultReportVO类以及相关操作">
+      <created>1667662904133</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1667662904133</updated>
+    </task>
+    <task id="LOCAL-00019" summary="修改数据类型 int 至 Integar &#10;新增获取待审核成果单函数">
+      <created>1667704168456</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1667704168456</updated>
+    </task>
+    <task id="LOCAL-00020" summary="修改数据类型 int 至 Integar">
+      <created>1667704567599</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1667704567599</updated>
+    </task>
+    <task id="LOCAL-00021" summary="修改查询函数参数">
+      <created>1667706296160</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1667706296160</updated>
+    </task>
+    <task id="LOCAL-00022" summary="修改查询函数参数">
+      <created>1667706449824</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1667706449824</updated>
+    </task>
+    <task id="LOCAL-00023" summary="修改审核结果查询条件">
+      <created>1667707762810</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1667707762810</updated>
+    </task>
+    <task id="LOCAL-00024" summary="修改维修时间类型">
+      <created>1667826851607</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1667826851607</updated>
+    </task>
+    <task id="LOCAL-00025" summary="controller:home,resultreport,role的添加">
+      <created>1667919094962</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1667919094962</updated>
+    </task>
+    <task id="LOCAL-00026" summary="searchPage函数的删除">
+      <created>1668004490391</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1668004490391</updated>
+    </task>
+    <task id="LOCAL-00027" summary="设施管理与人员管理控制层代码添加">
+      <created>1668421870865</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1668421870865</updated>
+    </task>
+    <task id="LOCAL-00028" summary="申报与派遣 控制层修改">
+      <created>1668872491917</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1668872491917</updated>
+    </task>
+    <task id="LOCAL-00029" summary="维修单状态修改">
+      <created>1668933075063</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1668933075063</updated>
+    </task>
+    <task id="LOCAL-00030" summary="接口实现类new的删除">
+      <created>1669045352289</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1669045352289</updated>
+    </task>
+    <task id="LOCAL-00031" summary="后端逻辑完善">
+      <created>1669133024262</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1669133024262</updated>
+    </task>
+    <task id="LOCAL-00032" summary="登录完善">
+      <created>1669175660532</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1669175660532</updated>
+    </task>
+    <task id="LOCAL-00033" summary="负责人获取逻辑完善">
+      <created>1669220369982</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1669220369983</updated>
+    </task>
+    <task id="LOCAL-00034" summary="增删改查debug">
+      <created>1669391179334</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1669391179334</updated>
+    </task>
+    <task id="LOCAL-00035" summary="图片上传完善">
+      <created>1669476357625</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1669476357626</updated>
+    </task>
+    <task id="LOCAL-00036" summary="密码修改完善">
+      <created>1669650013836</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1669650013837</updated>
+    </task>
+    <task id="LOCAL-00037" summary="日期时间格式化配置">
+      <created>1669736635461</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1669736635461</updated>
+    </task>
+    <task id="LOCAL-00038" summary="富文本图片回显解决">
+      <created>1669911878625</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1669911878625</updated>
+    </task>
+    <task id="LOCAL-00039" summary="新增id对应信息显示的代码">
+      <created>1670086116777</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1670086116777</updated>
+    </task>
+    <task id="LOCAL-00040" summary="修改待审批显示">
+      <created>1670248942891</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1670248942891</updated>
+    </task>
+    <task id="LOCAL-00041" summary="登录逻辑修改">
+      <created>1670414534103</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1670414534103</updated>
+    </task>
+    <task id="LOCAL-00042" summary="函数名称规约">
+      <created>1670516322188</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1670516322189</updated>
+    </task>
+    <task id="LOCAL-00043" summary="角色信息唯一性检查函数debug">
+      <created>1670636714787</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1670636714788</updated>
+    </task>
+    <task id="LOCAL-00044" summary="debug:无法删除用户在用角色；成果上报信息未填入维修单中。">
+      <created>1670655769439</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1670655769439</updated>
+    </task>
+    <task id="LOCAL-00045" summary="删除测试行">
+      <created>1670765563026</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1670765563026</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="修改数据类型 int 至 Integar" />
+    <MESSAGE value="修改查询函数参数" />
+    <MESSAGE value="修改审核结果查询条件" />
+    <MESSAGE value="修改维修时间类型" />
+    <MESSAGE value="controller:home,resultreport,role的添加" />
+    <MESSAGE value="searchPage函数的删除" />
+    <MESSAGE value="设施管理与人员管理控制层代码添加" />
+    <MESSAGE value="申报与派遣 控制层修改" />
+    <MESSAGE value="维修单状态修改" />
+    <MESSAGE value="接口实现类new的删除" />
+    <MESSAGE value="后端逻辑完善" />
+    <MESSAGE value="登录完善" />
+    <MESSAGE value="负责人获取逻辑完善" />
+    <MESSAGE value="增删改查debug" />
+    <MESSAGE value="图片上传完善" />
+    <MESSAGE value="密码修改完善" />
+    <MESSAGE value="日期时间格式化配置" />
+    <MESSAGE value="富文本图片回显解决" />
+    <MESSAGE value="新增id对应信息显示的代码" />
+    <MESSAGE value="修改待审批显示" />
+    <MESSAGE value="登录逻辑修改" />
+    <MESSAGE value="函数名称规约" />
+    <MESSAGE value="角色信息唯一性检查函数debug" />
+    <MESSAGE value="debug:无法删除用户在用角色；成果上报信息未填入维修单中。" />
+    <MESSAGE value="删除测试行" />
+    <option name="LAST_COMMIT_MESSAGE" value="删除测试行" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

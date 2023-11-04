@@ -1,0 +1,6 @@
+{
+  "timestamp": "2022-11-23T13:20:22.063+00:00",
+  "status": 500,
+  "error": "Internal Server Error",
+  "path": "/declare"
+}

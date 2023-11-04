@@ -1,0 +1,22 @@
+{
+  "flag": true,
+  "data": {
+    "menuList": [
+      {
+        "id": 1,
+        "name": "首页",
+        "orderNum": 1,
+        "url": "/home"
+      },
+      {
+        "id": 2,
+        "name": "维修申报",
+        "orderNum": 2,
+        "url": "/declare"
+      }
+    ],
+    "userId": "20170702001",
+    "token": "f86a77041ae24bf1b66298728ff76282"
+  },
+  "msg": "登录成功！"
+}

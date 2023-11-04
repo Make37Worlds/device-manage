@@ -1,0 +1,20 @@
+
+spring:
+  #数据库配置信息
+  datasource:
+    druid:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      url: jdbc:mysql://localhost:3306/efms_db
+      username: root
+      password: my689686sql
+  #日期时间格式化配置信息
+  jackson:
+    time-zone: GMT+8
+    date-format: "yyyy-MM-dd HH:mm:ss"
+
+#上传文件配置信息
+file:
+  uploadPath: D:\\Projrct-EFMS\\upload\\
+  #  uploadPath: imgupload/
+  accessPath: /image/
+
